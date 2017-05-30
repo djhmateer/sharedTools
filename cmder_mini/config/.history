@@ -177,3 +177,28 @@ cmderr
 ls
 cd config\
 code .
+cmderr
+code .
+cd ~
+cd dev
+ls
+cd config\
+cd \sharedTools\
+git init
+git add .
+git commit -m "initial"
+git remote add origin https://github.com/djhmateer/sharedTools.git
+git push -u origin master
+cd \cam
+cd InstallGit14
+InstallGit14.tscproj 
+cd DaveMTest\
+cls
+git status
+p
+cmderr
+code .
+cd \dev
+ls
+cd \
+cdd

@@ -15,3 +15,4 @@ cmderr=cd /d "%CMDER_ROOT%"
 e=explorer .
 p=git add . -A & git commit -m "auto commit" & git push
 c=code .
+cdd = cd c:\dev
