@@ -212,3 +212,27 @@ cdd
 cd da
 cd DaveMTest\
 ls
+code .
+cd \dev
+ls
+cd \
+cdd
+code .
+cd \dev
+cd \
+cd da
+cd DaveMTest\
+l
+ks
+cmderr
+cdd
+cdm
+git pull
+cd InstallGit14
+d
+ls
+InstallGit14.tscproj 
+cd ..
+p
+cdc
+exit
