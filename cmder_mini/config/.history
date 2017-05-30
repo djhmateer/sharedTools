@@ -202,3 +202,13 @@ cd \dev
 ls
 cd \
 cdd
+code .
+cd \dev
+cd \
+cmderr
+cd ..
+p
+cdd
+cd da
+cd DaveMTest\
+ls
