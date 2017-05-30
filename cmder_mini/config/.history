@@ -1,0 +1,179 @@
+cd \
+cd dev
+cd DMTest\
+git satus
+git status
+cd ..
+ls
+dir
+start .
+ú
+ú
+ls
+.e
+e.
+e.
+ls
+.e
+e.
+cmderr
+c con
+cd config\
+ls
+code .
+e.
+e.
+ls
+.e
+e.
+c con
+start .
+git clone https://quorumsource.visualstudio.com/_git/DaveMTest
+cd DaveMTest\
+ls -lat
+vi test.txt 
+p
+cd ..
+e
+cd simpleTwitterClientC\
+git status
+git diff
+git pull
+cmderr
+cd config\
+ls
+code .
+git pull
+cmderr
+cd config\
+code .
+cd simpleTwitterClientC\
+SimpleTwitterClient.sln 
+code d.bat
+ls
+del d.ps1
+d
+p
+cd \
+cd DMTest\
+git satus
+git status
+cd ..
+ls
+start .
+ú
+ú
+ls
+.e
+e.
+e.
+ls
+.e
+e.
+cmderr
+c con
+cd config\
+ls
+code .
+e.
+e.
+ls
+.e
+e.
+c con
+start .
+git clone https://quorumsource.visualstudio.com/_git/DaveMTest
+p
+cd simpleTwitterClientC\
+git status
+git diff
+git pull
+cmderr
+cd config\
+ls
+code .
+cmderr
+cd config\
+code .
+SimpleTwitterClient.sln 
+code d.bat
+cd simpleTwitterClientC\
+cd twitter\
+git pull
+cp ..\simpleTwitterClientC\d.bat 
+cp ..\simpleTwitterClientC\d.bat .
+vi d.bat
+del p.ps1
+del d.ps1
+d
+cd Cam\
+git installgit14
+cd InstallGit14
+ll
+dir
+GitInstall.pptx
+cd dev
+cd d
+e
+ls -lat
+cd \cam
+GitInstall.pptx 
+cd \dev
+cd DaveMTest\
+vi test.txt 
+git add -am test.txt 
+git comming -am "asdf"
+git commit -am "asdf"
+vi anohter.txt
+git commit -Am "added a file"
+git commit -am "added a file"
+del anohter.txt 
+p
+c
+cd ..
+rmdir DaveMTest\
+del DaveMTest\
+ls
+uname
+git installgit14
+ll
+GitInstall.pptx
+cd d
+ls -lat
+GitInstall.pptx 
+git add -am test.txt 
+git comming -am "asdf"
+git commit -am "asdf"
+vi anohter.txt
+git commit -Am "added a file"
+git commit -am "added a file"
+del anohter.txt 
+c
+rmdir DaveMTest\
+uname
+cd \cam
+cd GitInstall13
+cd GitInstall14
+cd InstallGit14
+dir
+InstallGit14.tscproj 
+cd \dev
+git pull
+cd ..
+del DaveMTest\
+s
+e
+git clone https://quorumsource.visualstudio.com/_git/DaveMTest
+p
+vi test.txt 
+cmderr
+code .
+cd ~
+cd \
+cd dev
+cd DaveMTest\
+ls
+cmderr
+ls
+cd config\
+code .
